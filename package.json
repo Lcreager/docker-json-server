@@ -1,0 +1,10 @@
+{
+  "name": "docker_rest_json-server",
+  "version": "1.0.0",
+  "description": "REST API using json-server",
+  "author": "Louis Creager <lscreager@gmail.com>",
+  "main": "generate.js",
+  "scripts": {
+    "start": "json-server generate.js"
+  }
+}
